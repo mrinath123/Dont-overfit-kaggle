@@ -1,3 +1,3 @@
 # Dont-overfit-kaggle
 selecting features and then fitting.
-ok till.
+ok till now.
