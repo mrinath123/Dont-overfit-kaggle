@@ -1,2 +1,3 @@
 # Dont-overfit-kaggle
-Whats up 
+selecting features and then fitting.
+ok till.
